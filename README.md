@@ -1,4 +1,4 @@
-# 🧠 Artificial Neural Network Tutorial — MLP & CNN from Scratch
+# 🧠 Artificial Neural Network Tutorial - MLP & CNN from Scratch
 
 A hands-on implementation of Multi-Layer Perceptrons (MLP) and Convolutional Neural Networks (CNN) built from scratch using NumPy, then accelerated with PyTorch and CUDA GPU support.
 
